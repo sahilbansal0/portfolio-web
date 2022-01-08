@@ -1,0 +1,69 @@
+body {
+    margin: 0%;
+    padding: 0%;
+}
+
+.containr {
+    width: 100%;
+    display: flex;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    background-color: #a0f5f5;
+    /* border: 2px solid black; */
+}
+
+img {
+    /* margin-left: 900px; */
+    height: 500px;
+    /* margin-right: 20px; */
+    /* border: 2px solid black; */
+    border-radius: 50%;
+}
+
+.tex {
+    padding-right: 250px;
+}
+
+#web {
+    padding: 30px;
+}
+
+#name {
+    color: brown;
+}
+
+.about {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* border-top: 2px solid black; */
+    background-color: #a0f5f5;
+}
+
+#skill {
+    text-align: center;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.learn {
+    text-align: center;
+    color: brown;
+    padding-top: 40px;
+}
+
+footer {
+    text-align: center;
+    border-top: black 2px dotted;
+    border-bottom: black 2px solid;
+    background-color: #a0f5f5;
+}
+
+h2 {
+    color: brown;
+    text-decoration: none;
+}
